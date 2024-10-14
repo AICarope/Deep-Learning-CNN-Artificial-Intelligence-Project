@@ -12,7 +12,7 @@ You can access the materials here
 [VivaHeart Product Requirements Document (PRD)](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/VivaHeart%20PRD.pdf)
 [VivaHeart Deck](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/VivaHeart.pdf) 
 
-![image](https://github.com/user-attachments/assets/d25bb9ba-fe1b-4269-9329-c9025b20a34d)
+<img src="https://github.com/user-attachments/assets/d25bb9ba-fe1b-4269-9329-c9025b20a34d" alt="image" width="300"/>
 
 ### Key Features
 
@@ -82,6 +82,6 @@ VivaHeart.AI is committed to ethical AI usage, particularly in healthcare, where
 - **Explainability of AI Models**: Ensure that healthcare professionals understand the rationale behind AI predictions through visual heatmaps and detailed explanations.
 - **Patient Consent**: Users are fully informed about how their data will be used, and they maintain control over it at all times.
 - **Transparency in AI Decisions**: We provide clear, interpretable AI predictions, enabling healthcare professionals and patients to trust the results.
-![image](https://github.com/user-attachments/assets/60dfd311-f816-4891-b3b9-13617f870bf4)
+
 
 
