@@ -6,7 +6,7 @@
 This repository contains the development and implementation details of VIVAHEART.AI, an AI-driven platform designed to provide early detection of heart disease in female smokers. Women who smoke are at higher risk for coronary artery disease, but current diagnostic tools often miss early indicators. VivaHeart.AI aims to bridge this gap by using advanced AI technologies to analyze cardiac CT scans, identify early signs of disease, and provide personalized health insights.
 
 
-### Materials
+## Materials
 You can access the materials here 
 - [PRFAQ](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/PRFAQ%20VivaHeart%20for%20AI%20Products.pdf) 
 - [VivaHeart Product Requirements Document (PRD)](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/VivaHeart%20PRD.pdf)
@@ -16,7 +16,7 @@ You can access the materials here
 
 <img src="https://github.com/user-attachments/assets/3e95072e-7586-44c7-9839-07efe69ef5fa" alt="image" width="400"/>
 
-### Key Features
+## Key Features
 
 1. **AI-Powered Early Detection**: Detect early signs of coronary inflammation and blockages using advanced Convolutional Neural Networks (CNNs) trained on cardiac CT scans.
 2. **Personalized Risk Assessment**: Leverages patient data (smoking history, cholesterol, etc.) to calculate a customized heart disease risk score.
@@ -24,12 +24,12 @@ You can access the materials here
 4. **Predictive Health Alerts**: Sends real-time notifications when heart disease risks spike based on data from wearables.
 5. **Healthcare Integration**: Supports Electronic Health Record (EHR) system integration to assist healthcare professionals in diagnostic decision-making.
 
-### Target Audience
+## Target Audience
 
 - **Primary Audience**: Female smokers aged 20-60, who are at higher risk of heart disease.
 - **Secondary Audience**: Healthcare providers (cardiologists) who treat high-risk patients and want to leverage AI for early detection and precision medicine.
 
-### Services Provided
+## Services Provided
 
 - Early-stage heart disease detection for high-risk patients using AI-powered cardiac CT scan analysis.
 - Personalized lifestyle and health recommendations for risk reduction.
