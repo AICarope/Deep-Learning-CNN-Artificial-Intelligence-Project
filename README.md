@@ -1,7 +1,7 @@
 # VivaHeart.AI
 
 
-## README: Overview
+## Overview
 
 This repository contains the development and implementation details of VIVAHEART.AI, an AI-driven platform designed to provide early detection of heart disease in female smokers. Women who smoke are at higher risk for coronary artery disease, but current diagnostic tools often miss early indicators. VivaHeart.AI aims to bridge this gap by using advanced AI technologies to analyze cardiac CT scans, identify early signs of disease, and provide personalized health insights.
 
