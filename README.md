@@ -14,7 +14,7 @@ You can access the materials here
 - [Prototype -Patient](https://app.uizard.io/p/1435d02c/fullscreen)
 - [Prototype-Doctor](https://app.uizard.io/p/9069738c/fullscreen)
 
-<image src="https://github.com/user-attachments/assets/751c2040-c79a-4e79-80c7-635f12ceca01" alt="image" width="400"/>
+<image src="https://github.com/user-attachments/assets/751c2040-c79a-4e79-80c7-635f12ceca01" alt="image" width="600"/>
 
 
 ## Key Features
