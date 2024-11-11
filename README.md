@@ -10,7 +10,7 @@ This repository contains the development and implementation details of VIVAHEART
 You can access the materials here 
 - [PRFAQ](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/PRFAQ%20VivaHeart%20for%20AI%20Products.pdf) 
 - [VivaHeart Product Requirements Document (PRD)](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/VivaHeart%20PRD.pdf)
-- [VivaHeart Deck](https://github.com/AICarope/Deep-Learning-CNN--Artificial-Intelligence--Project/blob/main/VivaHeart.pdf)
+- [VivaHeart Deck](https://github.com/AICarope/Deep-Learning-CNN-Artificial-Intelligence-Project/blob/main/VivaHeart%20v2.pdf)
 - [Prototype -Patient](https://app.uizard.io/p/1435d02c/fullscreen)
 - [Prototype-Doctor](https://app.uizard.io/p/9069738c/fullscreen)
 
