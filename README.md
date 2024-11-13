@@ -14,10 +14,10 @@ You can access the materials here
 - [Prototype -Patient](https://app.uizard.io/p/1435d02c/fullscreen)
 - [Prototype-Doctor](https://app.uizard.io/p/9069738c/fullscreen)
 
-**Prototype - Doctor Workflow
+## Materials Prototype - Doctor Workflow
 <image src="https://github.com/user-attachments/assets/751c2040-c79a-4e79-80c7-635f12ceca01" alt="image" width="600"/>
 
-**Prototype - Patient Workflow
+## Materials Prototype - Patient Workflow
 <image src="https://github.com/user-attachments/assets/8ad112f5-07ab-4055-b295-e226bdd32146" alt="image" width="600"/>
 
 
